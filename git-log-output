@@ -1,0 +1,31 @@
+commit 1da739a58ed69118eef44c6d3709dc9b8a1317a9
+Author: EddieRomeroVM <eddieromerobuis@gmail.com>
+Date:   Thu Sep 18 13:04:14 2025 -0400
+
+    Revert "Added notes.txt file"
+    
+    This reverts commit 13ac232e25c1b9b433f4d2bf050619f11ac95dd7.
+
+commit 13ac232e25c1b9b433f4d2bf050619f11ac95dd7
+Author: EddieRomeroVM <eddieromerobuis@gmail.com>
+Date:   Thu Sep 18 12:58:40 2025 -0400
+
+    Added notes.txt file
+
+commit f4f58c47d757c8f7150e057ebdc9480d4776f04c
+Author: EddieRomeroVM <eddieromerobuis@gmail.com>
+Date:   Thu Sep 18 12:55:51 2025 -0400
+
+    added comment to host name
+
+commit a328dd218564a52e6f22412548048f07983db31f
+Author: EddieRomeroVM <eddieromerobuis@gmail.com>
+Date:   Thu Sep 18 12:23:29 2025 -0400
+
+    osrelease append
+
+commit 7018dfbb77522a4fc6173317301b8718c01391d2
+Author: EddieRomeroVM <eddieromerobuis@gmail.com>
+Date:   Thu Sep 18 12:16:06 2025 -0400
+
+    Initial Commit
